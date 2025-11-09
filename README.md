@@ -16,11 +16,6 @@ GERENCIA_MOTO, GERENCIA_VAGA e NONE, garantindo CRUD apenas para quem tem permis
 
 ---
 
-## 🎬 Vídeo
-
-> <a href="https://youtu.be/AcaJ8uVdZ8s?si=cYHkui6XZyS9VUBf">Vídeo</a>
----
-
 ## ⚙️ Tecnologias
 
 - Java 17
